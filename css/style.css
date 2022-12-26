@@ -63,4 +63,10 @@ body {
     padding: 10px;
     text-align: center;
   }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    
+    padding-top: 10px;
+  }
   
