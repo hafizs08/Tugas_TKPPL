@@ -66,7 +66,7 @@ footer {
 
 
 a{
-  pointer-events: none; 
+  
       cursor: default;
       text-decoration: none; 
       color: black;
@@ -76,4 +76,9 @@ a{
 }
 hr{
   border: 2px solid rgb(168, 163, 163);
+}
+caption{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
 }
